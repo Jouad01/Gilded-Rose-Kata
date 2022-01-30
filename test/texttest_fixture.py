@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
-from __future__ import print_function
+'''from __future__ import print_function
 
-from gilded_rose import *
+from plantilla_gilded_rose import *
 
 if __name__ == "__main__":
     print("OMGHAI!")
@@ -30,4 +30,4 @@ if __name__ == "__main__":
         for item in items:
             print(item)
         print("")
-        GildedRose(items).update_quality()
+        GildedRose(items).update_quality()'''
